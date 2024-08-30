@@ -1,2 +1,3 @@
 # Java-Practice-Bug-Fixing
-A lab helping debugging skills  
+
+A lab helping with the debugging skills  
